@@ -1,1 +1,3 @@
 git hello!
+Edit test!
+Brunch test!
